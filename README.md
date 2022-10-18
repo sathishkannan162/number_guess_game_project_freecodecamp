@@ -7,3 +7,8 @@ You need to make a database on your machine with the sql file. Then you can run 
 - It will show a message with total games played and best guesses score for an existing user.
 - It will display message with guess count when you finish the game.
 - The game data ( guesses, username) will be stored in the database at the end of each game.
+
+Here is a video of the game: 
+Click on the Thumbnail to get to the video.
+
+[![number guess game](https://img.youtube.com/vi/_cu-PcDtmf0/0.jpg)](https://youtu.be/_cu-PcDtmf0)
